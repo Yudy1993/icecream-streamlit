@@ -2,13 +2,13 @@ import streamlit as st
 import time
 from image_fetcher import fetch_ice_cream_image
 
-st.set_page_config(page_title="🍦 Inpay's Ice Cream Shop", layout="centered")
+st.set_page_config(page_title="🍦 Pictures Of Pure Love", layout="centered")
 
 # Auto-start loop when app runs
 if "looping" not in st.session_state:
     st.session_state.looping = True  # Auto-start enabled
 
-st.title("🍨 Inpay's Ice Cream Shop")
+st.title("🍨 Pictures Of Pure Love")
 
 # Main loop
 if st.session_state.looping:
