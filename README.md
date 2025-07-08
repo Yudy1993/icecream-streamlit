@@ -2,7 +2,7 @@
 
 Welcome to the **IceCream Generator** — a Streamlit web app built with Python that automatically creates pictures of delicious ice cream!  
 
-> Made for the **Data & AI Team at Inpay** because we *love* ice cream 💖🍨
+> Made for the **Data & AI Team** because we *love* ice cream 💖🍨
 
 ## 🚀 What It Does
 
