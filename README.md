@@ -9,6 +9,7 @@ Welcome to the **IceCream Generator** — a Streamlit web app built with Python 
 - Generates images of ice cream
 - Random styles, flavors, and settings
 - Instant refresh for endless sweet creativity
+- Link: https://yudy1993-icecream-streamlit-app-wkempr.streamlit.app
 
 ## 🛠 Tech Stack
 
