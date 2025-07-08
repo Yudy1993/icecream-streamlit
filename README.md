@@ -1,6 +1,6 @@
 # 🍦 IceCream Generator WebApp
 
-Welcome to the **IceCream Generator** — a Streamlit web app built with Python that automatically creates pictures of delicious ice cream!  
+Welcome to the **IceCream Generator** — a Streamlit web app built with Python that automatically shows pictures of delicious ice cream!  
 
 > Made for the **Data & AI Team** because we *love* ice cream 💖🍨
 
